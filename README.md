@@ -18,8 +18,7 @@ Al ejecutar el script, se presenta un menú inicial con 4 opciones:
 3. Descifrar un archivo
 4. Salir
 
-[Imagen del menú principal]
-![Menú principal](./2025-06-15_13-30.png)
+![2025-06-15_13-30](https://github.com/user-attachments/assets/07ae5310-4c15-4ec4-8a88-3c8151e507b3)
 
 ---
 
